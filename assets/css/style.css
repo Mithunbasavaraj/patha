@@ -5450,6 +5450,10 @@ a:visited {
   position: relative;
   margin-bottom: 45px;
 }
+.about-one__img img{
+  height: 380px;
+  width: 100%;
+}
 .about-one__img:before {
   content: '';
   width: 197px;
